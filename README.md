@@ -45,7 +45,7 @@ I am a **Java Developer Intern** at Elevate Labs and a B.Tech Computer Science s
 
 ## 🏆 Certifications & Achievements
 
-* 🏅 **Java Developer Intern** | **Elevate Labs** (Remote)  *Nov 2025 - Present* | Building secure backend applications using **Core Java** and **Spring Boot**. [View Offer Letter]
+* 🏅 **Java Developer Intern** | **Elevate Labs** (Remote)  *Nov 2025 - Present* | Building secure backend applications using **Core Java** and **Spring Boot**. [View Offer Letter](https://drive.google.com/file/d/1N6Pbiw9I0Bm6P_j-Z06bGUKYEgYAnYvS/view) |
 * 🏅 **Bharat Intern:** Certificate of Completion in Web Development. [View Certificate](https://siddhantkrportfolio.netlify.app/Siddhant_Certificates.pdf)
 * 📜 **Diploma Merit:** Secured **79.40%** in Diploma (Mechanical Engineering).
 * 🏭 **Apprenticeship:** National Apprenticeship Promotion Scheme (NAPS) completed at AAM India. [View Certificate](https://drive.google.com/file/d/1FLBu8xEKI2CHxVpmjeZH83WuiiFSPROK/view)
