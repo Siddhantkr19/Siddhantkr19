@@ -25,6 +25,7 @@ I am a **Java Developer Intern** at Elevate Labs and a B.Tech Computer Science s
 
 | Name | Description | Tech Stack | Type |
 | :--- | :--- | :--- | :--- |
+| **Hazaribagh Libraries (LibConnect)** | A hyperlocal marketplace connecting students with private study centers. Features **Dynamic Pricing** (trial discounts), **Real-Time Seat Locking** (Optimistic Locking), and a **Split-Screen Transaction UI** with **Razorpay** integration. Secured via **Google OAuth2** & **JWT**. | **Java 21, Spring Boot 3.4, React, MySQL, Docker** | 🚀 **Flagship** |
 | **Internship Portal** | A full-stack platform for managing internships. Features role-based auth and admin dashboards. <br/> 🔗 [**Live Site**](https://internshipwithputul.netlify.app/) | **React, Spring Boot, Neon PostgreSQL** | 🚀 **Live** |
 | **Personal Portfolio** | Responsive portfolio website to showcase skills and connect with peers. <br/> 🔗 [**Live Site**](https://siddhantkrportfolio.netlify.app/) | **HTML5, CSS3, JavaScript** | 🎨 **Frontend** |
 | **College Admin Panel** | (Group Project) Designed the Admin Interface for the official college ERP system. | **React + Vite, Tailwind CSS** | 🤝 **Teamwork** |
